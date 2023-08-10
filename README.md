@@ -1,3 +1,3 @@
 #### Primary site
 
-[dotfiles.casjaysdev.com](dotfiles.casjaysdev.com)
+[dotfiles.casjaysdev.pro](dotfiles.casjaysdev.pro)
